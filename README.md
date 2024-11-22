@@ -1,5 +1,6 @@
 # aygaz bootcamp steam data project
 Projenin Amacı
+
 Merhaba! Bu proje, stajyer bir data analisti olarak çalışmaya başladığım yeni start-up oyun firmasında, Steam veri setlerini analiz ederek çıkarmayı planladığımız yeni oyun için bir yol haritası oluşturmayı amaçlayan bir senaryo üzerine kuruldu. Ben biyoloğum ve sadece raw datalarımı analiz ediyordum, bilmediğim bir sektörde kendimi zorlamak istedim. Senaryodaki amacım, firmanın mevcut oyun piyasasında daha bilinçli ve stratejik kararlar almasını sağlamak. Bu nedenle, oyun türlerinden geliştirici ve yayıncı analizlerine, oyuncu tercihlerini etkileyen unsurlardan gelir tahminlerine kadar pek çok farklı analiz gerçekleştirdim.
 
 Kullanılan Veri
